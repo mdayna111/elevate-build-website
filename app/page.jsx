@@ -5,7 +5,7 @@ import { ArrowRight, Check, Shield, Hammer, Building2, MapPin, Phone, Mail } fro
 
 export default function ElevateBuildCinematicWebsite() {
   const logoSrc = '/images/elevate-build-logo.png';
-  const ccbNumber = 'CCB #000000';
+  const ccbNumber = 'CCB #261968';
   const { scrollYProgress } = useScroll();
   const heroScale = useTransform(scrollYProgress, [0, 0.28], [1, 1.18]);
   const heroY = useTransform(scrollYProgress, [0, 0.28], [0, -120]);
@@ -293,7 +293,7 @@ export default function ElevateBuildCinematicWebsite() {
               Schedule a consultation and start your project with clarity, confidence, and a team built around professional standards.
             </p>
             <div className="mt-10 flex flex-wrap justify-center gap-4">
-              <a href="tel:5033204125" className="inline-flex items-center gap-3 rounded-full bg-[#D8B66A] px-7 py-4 font-semibold text-[#061827] transition hover:scale-105">
+              <a href="tel:9717275782" className="inline-flex items-center gap-3 rounded-full bg-[#D8B66A] px-7 py-4 font-semibold text-[#061827] transition hover:scale-105">
                 <Phone className="h-4 w-4" /> Call Now
               </a>
               <a href="mailto:hello@elevatebuildllc.com" className="inline-flex items-center gap-3 rounded-full border border-white/20 px-7 py-4 font-semibold text-white transition hover:border-[#D8B66A]/60 hover:bg-white/10">
