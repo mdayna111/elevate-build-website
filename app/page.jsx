@@ -314,7 +314,7 @@ export default function ElevateBuildCinematicWebsite() {
           <div>
             <h4 className="mb-4 font-semibold text-[#D8B66A]">Contact</h4>
             <div className="space-y-3 text-blue-100/65">
-              <p className="flex items-center gap-3"><Phone className="h-4 w-4" /> (503) 320-4125</p>
+              <p className="flex items-center gap-3"><Phone className="h-4 w-4" /> (971) 727-5782</p>
               <p className="flex items-center gap-3"><Mail className="h-4 w-4" /> hello@elevatebuildllc.com</p>
               <p className="flex items-center gap-3"><MapPin className="h-4 w-4" /> Portland Metropolitan Area</p>
               <p className="flex items-center gap-3"><Shield className="h-4 w-4" /> Licensed Contractor • {ccbNumber}</p>
